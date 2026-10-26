@@ -66,3 +66,7 @@ and fill in the `[[ … ]]` fields. Use Claude Opus 5.5 on xhigh or max effort f
 The style cards describe visual grammar (palettes, type, motion, transitions, pacing) learned from studying
 published motion work. They never reuse another studio's characters, logos, copy or layouts, and the skill
 tells Claude not to either.
+
+## Licence
+
+[MIT](LICENSE) © 2026 Noah N. Demuyakor
